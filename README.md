@@ -45,8 +45,8 @@ Disponível gratuitamente em: [Curso em Vídeo - Python](https://www.cursoemvide
 
 ## 🤝 Conecte-se comigo
 
-[![Instagram](https://img.shields.io/badge/@wolfdnb-purple?style=flat&logo=instagram)](https://www.instagram.com/wolfdnb)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com)
+[![Instagram](https://img.shields.io/badge/@wolf_daniboy-purple?style=flat&logo=instagram)](https://www.instagram.com/wolf_daniboy?igsh=Ym5udW5kN2FmN2w0)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/daniel-nascimento-710245362?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
