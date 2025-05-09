@@ -1,6 +1,1 @@
-exercícios python 
-
-# exercicios ,faça um progama que leia o nome do usuario , e mostre uma mensagem de boas vindas 
-
-nome = input("digite seu  nome " )
-print ("é um prazer te conhecer , seja bem vindo ,{} !".format(nome))
+exercícios python desenvolvidos para evolução  diária!.
