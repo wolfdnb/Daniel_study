@@ -28,7 +28,7 @@ Cada diretório representa uma aula do curso e contém:
 | Aula | Link | Status |
 |------|------|--------|
 | Aula 01 | [Ver exercício](https://github.com/wolfdnb/Projeto-x/blob/main/aula%201) | ✅ Concluído |
-| Aula 02 |   Concluído | ✅ Concluído
+| Aula 02 |[Ver exercício](https://github.com/wolfdnb/Projeto-x/blob/main   Concluído | ✅ Concluído
 | Aula 03 | *em breve* | ⏳ Em andamento |
 | ... | ... | ... |
 
