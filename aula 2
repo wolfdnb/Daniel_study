@@ -1,0 +1,8 @@
+#crie um progama que mostre 2 numeros e a soma dentro eles 
+
+
+
+numero1= int(input("digite um nunero "))
+numero2= int(input("digite outro numero "))
+soma = numero1 + numero2 
+print (" o resultado  dos numero são", (soma))
