@@ -2,3 +2,8 @@
 
 nome = input("digite seu  nome " )
 print ("é um prazer te conhecer , seja bem vindo ,{} !".format(nome))
+
+
+
+
+#https://youtu.be/nIHq1MtJaKs?si=ExJ4EEBqcpm9725I
