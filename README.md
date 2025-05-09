@@ -1,4 +1,4 @@
-7# 🚀 Registro de Evolução em Python
+77# 🚀 Registro de Evolução em Python
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/wolfdnb/Projeto-x?color=blue)
 ![GitHub last commit](https://img.shields.io/github/last-commit/wolfdnb/Projeto-x?color=green)
@@ -28,7 +28,7 @@ Cada diretório representa uma aula do curso e contém:
 | Aula | Link | Status |
 |------|------|--------|
 | Aula 01 | [Ver exercício](https://github.com/wolfdnb/Projeto-x/blob/main/aula%201) | ✅ Concluído |
-| Aula 02 |   Concluído |
+| Aula 02 |   Concluído | ✅ Concluído
 | Aula 03 | *em breve* | ⏳ Em andamento |
 | ... | ... | ... |
 
