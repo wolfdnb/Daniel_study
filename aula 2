@@ -1,7 +1,17 @@
-#crie um progama que mostre 2 numeros e a soma dentre eles:
+#crie um progama que mostre 2 numeros e a soma dentro eles 
 
+#exemplo no qual acho melhro mais clean code, sendo mais simples 
 
-numero1= int(input("digite um numero "))
+numero1= int(input(" digite um nunero "))
 numero2= int(input("digite outro numero "))
 soma = numero1 + numero2 
 print (" o resultado  dos numero são", (soma))
+
+
+#2 exemplo 
+
+
+numero1= int(input(" digite um nunero "))
+numero2= int(input("digite outro numero "))
+soma = numero1 + numero2 
+print ( "o resultado  dos numero são {}".format(soma))
