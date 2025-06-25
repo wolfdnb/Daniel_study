@@ -1,0 +1,7 @@
+#make a program that reads the integer and shows on the screen its successor to predecessor
+
+numero=int(input('digite um número : '))
+antecessor = numero - 1
+sucessor = numero + 1
+print(f'o antecessor do {numero} é {antecessor} ')
+print(f' e o sucessor do {numero} é  {sucessor} ')
