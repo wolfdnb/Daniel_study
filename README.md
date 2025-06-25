@@ -17,9 +17,9 @@ Este repositório foi criado para demonstrar minha **evolução diária na lingu
 ## 📚 Estrutura do Repositório
 
 Cada diretório representa uma aula do curso e contém:
-- Anotações e aprendizados
-- Exercícios resolvidos
-- Comentários explicativos
+- 📝 Anotações e aprendizados
+- 💻 Exercícios resolvidos
+- 💬 Comentários explicativos no código
 
 ---
 
@@ -29,17 +29,17 @@ Cada diretório representa uma aula do curso e contém:
 |---------|------|--------------|
 | Aula 01 | [Ver exercício](https://github.com/wolfdnb/Projeto-x/blob/main/aula%201) | ✅ Concluído |
 | Aula 02 | [Ver exercício](https://github.com/wolfdnb/Projeto-x/blob/main/aula%202) | ✅ Concluído |
-|Aula03|[Ver exercício]https://github.com/wolfdnb/projeto-curso-em-video---liguagem-python/blob/32a641146dd9f707208b6b43753b8d73d2698b83/Aula%203| ✅ Concluído |
-| ...     | ...  | ...          |
+| Aula 03 | [Ver exercício](https://github.com/wolfdnb/projeto-curso-em-video---liguagem-python/blob/32a641146dd9f707208b6b43753b8d73d2698b83/Aula%203) | ✅ Concluído |
+| ...     | ...  | Em andamento |
 
-*Atualizações serão feitas diariamente ou conforme o andamento do curso.*
+> *Atualizações serão feitas diariamente ou conforme o andamento do curso.*
 
 ---
 
 ## 👨‍🏫 Curso Base
 
 Curso ministrado por **Gustavo Guanabara**  
-Disponível gratuitamente em: [Curso em Vídeo - Python](https://www.cursoemvideo.com/course/curso-python-3/)
+📚 Disponível gratuitamente em: [Curso em Vídeo - Python](https://www.cursoemvideo.com/course/curso-python-3/)
 
 ---
 
