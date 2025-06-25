@@ -29,7 +29,7 @@ Cada diretório representa uma aula do curso e contém:
 |---------|------|--------------|
 | Aula 01 | [Ver exercício](https://github.com/wolfdnb/Projeto-x/blob/main/aula%201) | ✅ Concluído |
 | Aula 02 | [Ver exercício](https://github.com/wolfdnb/Projeto-x/blob/main/aula%202) | ✅ Concluído |
-| Aula 03 ||https://github.com/wolfdnb/projeto-curso-em-video---liguagem-python/blob/32a641146dd9f707208b6b43753b8d73d2698b83/Aula%203
+|Aula03|[Ver exercício]https://github.com/wolfdnb/projeto-curso-em-video---liguagem-python/blob/32a641146dd9f707208b6b43753b8d73d2698b83/Aula%203| ✅ Concluído |
 | ...     | ...  | ...          |
 
 *Atualizações serão feitas diariamente ou conforme o andamento do curso.*
