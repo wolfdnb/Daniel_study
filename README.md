@@ -24,7 +24,7 @@ Projetos pessoais e acadêmicos que solidificam meus conhecimentos em desenvolvi
 
 ### 💡 Suporte de TI: Resolvendo Desafios
 Projetos e insights voltados à resolução de problemas, manutenção de sistemas e otimização de infraestrutura de TI.
-![Suporte Técnico](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGR2d3Z4eHJ3a29oZTBsdGJzY3k5M2c0dzFqOWt3cW16ZTVrbWVzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0Myl014J8N0iQ2x2/giphy.gif)
+![Suporte Técnico]([https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGR2d3Z4eHJ3a29oZTBsdGJzY3k5M2c0dzFqOWt3cW16ZTVrbWVzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0Myl014J8N0iQ2x2/giphy.gif](https://dribbble.com/shots/24560757-Login-2D-Animation?utm_source=Clipboard_Shot&utm_campaign=DigitalCrocs&utm_content=Login%202D%20Animation&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=DigitalCrocs&utm_content=Login%202D%20Animation&utm_medium=Social_Share)
 
 ---
 
