@@ -1,53 +1,19 @@
-# 🚀 Registro de Evolução em Python
-
-![GitHub repo size](https://img.shields.io/github/repo-size/wolfdnb/Projeto-x?color=blue)  
-![GitHub last commit](https://img.shields.io/github/last-commit/wolfdnb/Projeto-x?color=green)  
-![Made with Python](https://img.shields.io/badge/Made%20with-Python-FFD43B?style=flat&logo=python&logoColor=blue)
-
-Este repositório foi criado para demonstrar minha **evolução diária na linguagem Python**, com foco nos exercícios propostos no **curso de Python do professor Gustavo Guanabara**, disponível no portal [CursoemVideo.com](https://www.cursoemvideo.com/).
-
----
-
-## 🎯 Objetivo
-
-> Utilizar o GitHub como ferramenta de versionamento e **registro público do meu progresso**, enriquecendo minha **apresentação pessoal** para o mercado de trabalho nas áreas de **desenvolvimento e tecnologia**.
-
----
-
-## 📚 Estrutura do Repositório
-
-Cada diretório representa uma aula do curso e contém:
-- 📝 Anotações e aprendizados
-- 💻 Exercícios resolvidos
-- 💬 Comentários explicativos no código
-
----
-
-## ✅ Progresso
-
-| Aula    | Link | Status       |
-|---------|------|--------------|
-| Aula 01 | [Ver exercício](https://github.com/wolfdnb/Projeto-x/blob/main/aula%201) | ✅ Concluído |
-| Aula 02 | [Ver exercício](https://github.com/wolfdnb/Projeto-x/blob/main/aula%202) | ✅ Concluído |
-| Aula 03 | [Ver exercício](https://github.com/wolfdnb/projeto-curso-em-video---liguagem-python/blob/32a641146dd9f707208b6b43753b8d73d2698b83/Aula%203) | ✅ Concluído |
-| ...     | ...  | Em andamento |
-
-> *Atualizações serão feitas diariamente ou conforme o andamento do curso.*
-
----
-
-## 👨‍🏫 Curso Base
-
-Curso ministrado por **Gustavo Guanabara**  
-📚 Disponível gratuitamente em: [Curso em Vídeo - Python](https://www.cursoemvideo.com/course/curso-python-3/)
-
----
-
-## 🤝 Conecte-se comigo
-
-[![Instagram](https://img.shields.io/badge/@wolf_daniboy-purple?style=flat&logo=instagram)](https://www.instagram.com/wolf_daniboy)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/daniel-nascimento-710245362)
-
----
-
-**Acompanhe meu progresso, compartilhe ideias e vamos evoluir juntos!**
+🚀 Bem-vindo(a) ao Meu Universo de Código no GitHub!
+Olá! 👋 Este espaço foi cuidadosamente organizado para centralizar e apresentar minha jornada de aprendizado, projetos pessoais e trabalhos desenvolvidos ao longo da minha formação em Engenharia de Software.
+🎓 Sobre Este Espaço
+Aqui, você terá uma visão abrangente da minha evolução e das minhas paixões no mundo da tecnologia. Encontrará:
+ * 📚 Trabalhos Acadêmicos: Repositórios dedicados a projetos e trabalhos desenvolvidos durante meu curso de Engenharia de Software, demonstrando a aplicação de conceitos teóricos em soluções práticas.
+ * 🧪 Projetos Experimentais: Espaço para explorar e praticar novas tecnologias, linguagens de programação e ferramentas. Estes projetos refletem minha curiosidade e meu compromisso em me manter atualizado(a) com as tendências do mercado.
+ * 🚀 Repositórios Pessoais: Projetos que marcam minha jornada de aprendizado e crescimento como desenvolvedor(a), desde os primeiros passos até soluções mais complexas.
+🛠️ Tecnologias e Ferramentas que Estou Estudando
+Estou em constante aprendizado e aprimoramento. Atualmente, estas são algumas das principais tecnologias e ferramentas com as quais tenho me dedicado e desenvolvido:
+ * [Nome da Linguagem/Ferramenta 1] (ex: Python, JavaScript, Java)
+ * [Nome da Linguagem/Ferramenta 2] (ex: React, Node.js, Spring Boot)
+ * [Nome da Linguagem/Ferramenta 3] (ex: Docker, Kubernetes, AWS)
+ * [Nome da Linguagem/Ferramenta 4] (ex: SQL, MongoDB, PostgreSQL)
+ * [Adicione mais conforme necessário]
+📫 Conecte-se Comigo!
+Estou sempre aberto(a) a novas conexões, aprendizados e oportunidades. Sinta-se à vontade para entrar em contato:
+ * LinkedIn: [Seu link do LinkedIn]
+ * Email: [Seu endereço de email]
+Espero que você encontre valor e inspiração neste espaço. Obrigado(a) pela visita!
