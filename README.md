@@ -4,7 +4,7 @@ Olá! 👋 Este espaço foi cuidadosamente organizado para centralizar e apresen
 Aqui, você terá uma visão abrangente da minha evolução e das minhas paixões no mundo da tecnologia. Encontrará:
  * 📚 Trabalhos Acadêmicos: Repositórios dedicados a projetos e trabalhos desenvolvidos durante meu curso de Engenharia de Software, demonstrando a aplicação de conceitos teóricos em soluções práticas.
  * 🧪 Projetos Experimentais: Espaço para explorar e praticar novas tecnologias, linguagens de programação e ferramentas. Estes projetos refletem minha curiosidade e meu compromisso em me manter atualizado(a) com as tendências do mercado.
- * 🚀 Repositórios Pessoais: Projetos que marcam minha jornada de aprendizado e crescimento como desenvolvedor(a), desde os primeiros passos até soluções mais complexas.
+ * 🚀 Repositórios Pessoais: Projetos que marcam minha jornada de aprendizado e crescimento como desenvolvedor, desde os primeiros passos até soluções mais complexas.
 🛠️ Tecnologias e Ferramentas que Estou Estudando
 Estou em constante aprendizado e aprimoramento. Atualmente, estas são algumas das principais tecnologias e ferramentas com as quais tenho me dedicado e desenvolvido:
  * [Nome da Linguagem/Ferramenta 1] (ex: Python, JavaScript, Java)
